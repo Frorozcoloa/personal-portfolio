@@ -10,16 +10,16 @@
     "pageSize": 6
   },
   "features": {
-    "youtube": true,
+    "youtube": false,
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "Fredy Orozco",
+    "meta_description": "I am a computer systems engineering student passionate about data analysis, computer vision, and NLP."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
-    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "name": "Fredy Alberto Orozco Loaiza",
+    "avatar": "https://media.licdn.com/dms/image/D4E03AQEQXtWsM-mE8w/profile-displayphoto-shrink_800_800/0/1676034673947?e=1703116800&v=beta&t=mc9RjLwxJD-fwK7Kk9HrTDmH_R-kG4uNEynk5rh1Pug",
+    "bio": "Soy un estudiante de ingeniería de sistemas informáticos apasionado por el análisis de datos, la visión por ordenador y el procesamiento del lenguaje natural."
   }
 }
